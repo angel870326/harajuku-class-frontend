@@ -33,3 +33,13 @@ yarn install
 ```
 
 
+## Developing server
+
+```shell
+make
+```
+or
+```shell
+yarn dev
+```
+
