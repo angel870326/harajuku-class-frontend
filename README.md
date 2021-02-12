@@ -19,13 +19,17 @@ git clone https://github.com/aeroworks-io/harajuku-class.git
 
 
 ## Setup
-change directory to ```harajuku-class/frontend```
+1. change directory to ```harajuku-class/frontend```
 ```
 cd /Users/angelwang/Desktop/harajuku-class/frontend
 ```
-install
-```make install``` 
+2. install
+```
+make install
+``` 
 or 
-```yarn install```
+```
+yarn install
+```
 
 
