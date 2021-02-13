@@ -49,7 +49,7 @@ yarn dev
 
 |UI|File|
 |---|---|
-|**Main**| pages/index.tsx |
+|**Main**|pages / index.tsx |
 |**Price**| |
 |****| |
 |****| |
