@@ -47,16 +47,14 @@ yarn dev
 ## Frontend
 
 
-|UI|File|
+|Frontend|File|
 |---|---|
-|**Main**|pages / index.tsx |
-|**Price**| |
-|****| |
-|****| |
-|****| |
-|****| |
-|****| |
-|****| |
-|****| |
+|**TOP**|pages / index.tsx <br/>components/Header <br/>styles/Header|
+|**講師一覽（teachers）**| |
+|**課程費用（price）**| |
+|**常見問題（question）**| |
+|**聯絡我們（contact）**| |
+|**註冊/登入（login）**| |
+
 
 
