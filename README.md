@@ -31,6 +31,10 @@ or
 ```
 yarn install
 ```
+**3. install react-swipeable-views**
+```
+npm install --save react-swipeable-views
+``` 
 
 
 ## Developing server
