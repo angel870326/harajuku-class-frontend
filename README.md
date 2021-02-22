@@ -65,11 +65,11 @@ yarn dev
 ## Color
 
 
-|Color|Hex|RGB|Link|
-|---|---|---|---|
+|Color|Img|Hex|RGB|Link|
+|---|---|---|---|---|
 |**primary**|![alt text](https://www.colorhexa.com/b19c8f.png)|#b19c8f|rgb(177,156,143)|https://www.colorhexa.com/b19c8f|
-|**primary_light**|#c6b7ad|rgb(198,183,173)|https://www.colorhexa.com/c6b7ad|
-|**purple**| | |
-|**pink**| | |
-|**green**| | |
-|**blue**| | |
+|**primary_light**|![alt text](https://www.colorhexa.com/c6b7ad.png)|#c6b7ad|rgb(198,183,173)|https://www.colorhexa.com/c6b7ad|
+|**purple**|![alt text]() | | |
+|**pink**|![alt text]() | | |
+|**green**|![alt text]() | | |
+|**blue**|![alt text]() | | |
