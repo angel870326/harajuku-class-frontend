@@ -69,7 +69,7 @@ yarn dev
 |---|---|---|---|---|
 |**primary**|<img src="https://www.colorhexa.com/b19c8f.png" width="100" height="100"/>|#b19c8f|rgb(177,156,143)|https://www.colorhexa.com/b19c8f|
 |**primary_light**|<img src="https://www.colorhexa.com/c6b7ad.png" width="100" height="100"/>|#c6b7ad|rgb(198,183,173)|https://www.colorhexa.com/c6b7ad|
-|**purple**|<img src="" width="100" height="100"/>| | |
-|**pink**|<img src="" width="100" height="100"/>| | |
-|**green**|<img src="" width="100" height="100"/>| | |
-|**blue**|<img src="" width="100" height="100"/>| | |
+|**purple**|<img src="" width="100" height="100"/>| | | |
+|**pink**|<img src="https://www.colorhexa.com/f5d6ed.png" width="100" height="100"/>|#f5d6ed| rgb(245,214,237)|https://www.colorhexa.com/f5d6ed|
+|**green**|<img src="" width="100" height="100"/>| | | |
+|**blue**|<img src="" width="100" height="100"/>| | | |
