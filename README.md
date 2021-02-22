@@ -75,7 +75,9 @@ yarn dev
 |**green_g**|<img src="https://www.colorhexa.com/d6f5de.png" width="100" height="100"/>|#d6f5de|rgb(214,245,222)|https://www.colorhexa.com/d6f5de|
 |**applegreen**|<img src="https://www.colorhexa.com/f2ffcc.png" width="100" height="100"/>|#f2ffcc|rgb(242,255,204)|https://www.colorhexa.com/f2ffcc|
 |**blue_b**|<img src="https://www.colorhexa.com/ccf2ff.png" width="100" height="100"/>|#ccf2ff|rgb(204,242,255)|https://www.colorhexa.com/ccf2ff|
-|**purple_b**|<img src="https://www.colorhexa.com/e4daff.png" width="100" height="100"/>||||
-|**pink_b**|<img src="https://www.colorhexa.com/f5d6ff.png" width="100" height="100"/>||||
+|**purple_b**|<img src="https://www.colorhexa.com/e4daff.png" width="100" height="100"/>|#e4daff|rgb(245,214,255)|https://www.colorhexa.com/e4daff|
+|**pink_b**|<img src="https://www.colorhexa.com/f5d6ff.png" width="100" height="100"/>|#f5d6ff|rgb(245,214,255)|https://www.colorhexa.com/f5d6ff|
+|**orange**|<img src="https://www.colorhexa.com/ffe4da.png" width="100" height="100"/>||||
+
 
 
