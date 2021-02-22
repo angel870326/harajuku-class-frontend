@@ -68,8 +68,8 @@ yarn dev
 |Color|Img|Hex|RGB|Link|
 |---|---|---|---|---|
 |**primary**|<img src="https://www.colorhexa.com/b19c8f.png" width="100" height="100"/>|#b19c8f|rgb(177,156,143)|https://www.colorhexa.com/b19c8f|
-|**primary_light**|![alt text](https://www.colorhexa.com/c6b7ad.png)|#c6b7ad|rgb(198,183,173)|https://www.colorhexa.com/c6b7ad|
-|**purple**|![alt text]() | | |
-|**pink**|![alt text]() | | |
-|**green**|![alt text]() | | |
-|**blue**|![alt text]() | | |
+|**primary_light**|<img src="https://www.colorhexa.com/c6b7ad.png" width="100" height="100"/>|#c6b7ad|rgb(198,183,173)|https://www.colorhexa.com/c6b7ad|
+|**purple**|<img src="" width="100" height="100"/>| | |
+|**pink**|<img src="" width="100" height="100"/>| | |
+|**green**|<img src="" width="100" height="100"/>| | |
+|**blue**|<img src="" width="100" height="100"/>| | |
