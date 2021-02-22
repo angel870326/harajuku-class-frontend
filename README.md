@@ -77,7 +77,7 @@ yarn dev
 |**blue_b**|<img src="https://www.colorhexa.com/ccf2ff.png" width="100" height="100"/>|#ccf2ff|rgb(204,242,255)|https://www.colorhexa.com/ccf2ff|
 |**purple_b**|<img src="https://www.colorhexa.com/e4daff.png" width="100" height="100"/>|#e4daff|rgb(245,214,255)|https://www.colorhexa.com/e4daff|
 |**pink_b**|<img src="https://www.colorhexa.com/f5d6ff.png" width="100" height="100"/>|#f5d6ff|rgb(245,214,255)|https://www.colorhexa.com/f5d6ff|
-|**orange**|<img src="hhttps://www.colorhexa.com/ffda9c.png" width="100" height="100"/>||||
+|**orange**|<img src="https://www.colorhexa.com/ffda9c.png" width="100" height="100"/>||||
 
 
 
