@@ -53,7 +53,7 @@ yarn dev
 
 |Page|Content|File|
 |---|---|---|
-|**TOP**|關於我們（About us）<br/>課程費用（price）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>styles/Header|
+|**TOP**|關於我們（About us）<br/>課程費用（price）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
 |**講師一覽（teachers）**| | |
 |**課程費用（price）**| | |
 |**常見問題（question）**| | |
