@@ -35,7 +35,6 @@ yarn install
 ```
 yarn add react-swipeable-views
 ``` 
-npm install --save react-swipeable-views
 
 
 
