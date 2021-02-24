@@ -16,6 +16,9 @@ npm install -g yarn
 cd /Users/angelwang/Desktop
 git clone https://github.com/aeroworks-io/harajuku-class.git
 ```
+```
+git clone https://github.com/aeroworks-io/harajuku-class.git -b angel870326-patch-1
+```
 
 
 ## Setup
