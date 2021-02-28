@@ -57,7 +57,7 @@ yarn dev
 
 |Page|Content|File|
 |---|---|---|
-|**TOP**|關於我們（About us）<br/>課程費用（price）-> plan to change it to 課程資訊（course info: time and price）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
+|**TOP**|關於我們（About us）<br/>課程資訊（Course info）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
 |**講師一覽（teachers）**| | |
 |**課程費用（price）**| | |
 |**常見問題（question）**| | |
