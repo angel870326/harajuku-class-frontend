@@ -58,11 +58,11 @@ yarn dev
 |Page|Content|File|
 |---|---|---|
 |**TOP**|關於我們（About us）<br/>課程資訊（Course info）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
-|**講師一覽（teachers）**| | |
-|**課程費用（price）**| | |
+|**講師一覽（teachers）**| 預約講師(make an appointment）<br/>|pages / teachers.tsx|
+|**課程費用（price）**| |pages / pricing.tsx |
 |**常見問題（question）**| | |
 |**聯絡我們（contact）**| | |
-|**註冊/登入（login）**| | |
+|**註冊/登入（register/login）**| 忘記密碼（forget password）|pages / login.tsx <br/>pages / register.tsx |
 
 
 
