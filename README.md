@@ -34,7 +34,7 @@ or
 ```
 yarn install
 ```
-3. install react-swipeable-views (new)
+(install react-swipeable-views)
 ```
 yarn add react-swipeable-views
 ``` 
