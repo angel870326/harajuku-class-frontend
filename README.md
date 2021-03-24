@@ -42,19 +42,19 @@ yarn add react-swipeable-views
 
 ## Developing server
 
-```
-./ngrok http 3000
-```
-
-
-## Start a HTTP tunnel forwarding to local port 3000
-
 ```shell
 make
 ```
 or
 ```shell
 yarn dev
+```
+
+
+## Start a HTTP tunnel forwarding to local port 3000
+
+```
+./ngrok http 3000
 ```
 
 
