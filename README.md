@@ -54,6 +54,7 @@ yarn dev
 ## Start a HTTP tunnel forwarding to local port 3000
 
 ```
+cd /Users/angelwang/Desktop/Application
 ./ngrok http 3000
 ```
 
