@@ -104,7 +104,7 @@ This is the backend stack for the Harajuku-class project.
 ## Install poetry
 ```
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
-$HOME/.poetry/env
+source $HOME/.poetry/env
 ```
 
 
