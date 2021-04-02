@@ -97,15 +97,37 @@ cd /Users/angelwang/Desktop/Application
 
 <br/>
 
-# Harajuku-class backend
+# Integrate with backend
 This is the backend stack for the Harajuku-class project.
 
 
-## Install poetry
+## Install poetry (for backend)
 ```
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
 source $HOME/.poetry/env
 ```
-pip install psycopg2-binary
+
+
+## Before Setup
+```
+brew install postgresql
+```
+
+
+## Setup
+1. change directory to ```harajuku-class/```
+```
+cd /Users/angelwang/Desktop/harajuku-class/
+```
+2. install
+
+```
+export PATH=/usr/local/Cellar/postgresql/9.6.1/bin:$PATH
+make install
+```
+
+
+
+
 
 
