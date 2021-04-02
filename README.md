@@ -93,10 +93,14 @@ cd /Users/angelwang/Desktop/Application
 |**pink_b**|<img src="https://www.colorhexa.com/f5d6ff.png" width="100" height="100"/>|#f5d6ff|rgb(245,214,255)|https://www.colorhexa.com/f5d6ff|
 |**orange**|<img src="https://www.colorhexa.com/ffda9c.png" width="100" height="100"/>|#ffda9c|rgb(255,218,156)|https://www.colorhexa.com/ffda9c|
 
+<br/>
 
-
+<br/>
 
 # Harajuku-class backend
+This is the backend stack for the Harajuku-class project.
+
+
 ## Install poetry
 ```
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
