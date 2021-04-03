@@ -123,6 +123,8 @@ cd /Users/angelwang/Desktop/harajuku-class/
 
 ```
 export PATH=/usr/local/Cellar/postgresql/9.6.1/bin:$PATH
+/usr/local/Cellar/postgresql/9.6.1/bin/pg_config
+poetry env remove $(poetry env info -p)/bin/python && poetry install
 make install
 ```
 
