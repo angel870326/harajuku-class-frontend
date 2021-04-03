@@ -115,18 +115,24 @@ brew install postgresql
 
 
 ## Setup
-1. change directory to ```harajuku-class/```
+1. change directory to ```harajuku-class/backend```
 ```
-cd /Users/angelwang/Desktop/harajuku-class/
+cd /Users/angelwang/Desktop/harajuku-class/backend
 ```
 2. install
 
 ```
 export PATH=/usr/local/Cellar/postgresql/9.6.1/bin:$PATH
-/usr/local/Cellar/postgresql/9.6.1/bin/pg_config
 poetry env remove $(poetry env info -p)/bin/python && poetry install
-make install
 ```
+* If not work, run this:
+```
+xcode-select --install
+env LDFLAGS="-I$(brew --prefix openssl)/include -L$(brew --prefix openssl)/lib" poetry install
+```
+Source: https://stackoverflow.com/questions/26288042/error-installing-psycopg2-library-not-found-for-lssl/39244687#39244687
+
+
 
 
 
