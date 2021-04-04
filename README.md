@@ -145,7 +145,7 @@ PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
 export PATH
 ```
 
-* Setting PATH for Python
+* Setting PATH for default Python
 ```
 PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
 export PATH
