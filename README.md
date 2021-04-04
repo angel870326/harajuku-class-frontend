@@ -169,6 +169,7 @@ set PATH ~/Library/Python/3.9/bin $PATH
 Source:
 https://www.codingforentrepreneurs.com/blog/changing-default-python-3-in-terminal-for-mac-os
 https://flaviocopes.com/python-installation-macos/
+https://levelup.gitconnected.com/a-guide-to-upgrade-your-python-to-3-9-44ccb3eae31a
 
 
 
