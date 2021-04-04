@@ -134,16 +134,31 @@ Source: https://stackoverflow.com/questions/26288042/error-installing-psycopg2-l
 
 
 ## Reinstall Python
-1. 
+* Setting PATH for Python 3.9 (downloaded from https://www.python.org/downloads/)
+```
+nano ~/.bash_profile
+```
+```
+# Setting PATH for Python 3.9
+# The original version is saved in .bash_profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
+export PATH
 ```
 
+* Setting PATH for Python
+```
+PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
+export PATH
 ```
 
-2. 
+* Set default python to python3 each time
 ```
-
+alias python=python3
 ```
-
+or
+```
+set PATH ~/Library/Python/3.9/bin $PATH
+```
 
 
 
