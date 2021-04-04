@@ -108,6 +108,12 @@ source $HOME/.poetry/env
 ```
 
 
+## Install Homebrew
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+
 ## Before Setup
 ```
 brew install postgresql
