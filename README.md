@@ -134,23 +134,16 @@ Source: https://stackoverflow.com/questions/26288042/error-installing-psycopg2-l
 
 
 ## Reinstall Python
+1. 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-# Install pyenv
-brew update
-brew install pyenv
-
-# View more information
-brew info pyenv
-
-# Add the following to your ~/.bash_profile
-# We want to load pyenv every time we open a new shell
-if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
-
-# Restart your shell - after updating your ~/.bash_profile
 
 ```
+
+2. 
+```
+
+```
+
 
 
 
