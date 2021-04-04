@@ -133,6 +133,25 @@ env LDFLAGS="-I$(brew --prefix openssl)/include -L$(brew --prefix openssl)/lib" 
 Source: https://stackoverflow.com/questions/26288042/error-installing-psycopg2-library-not-found-for-lssl/39244687#39244687
 
 
+## Reinstall Python
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# Install pyenv
+brew update
+brew install pyenv
+
+# View more information
+brew info pyenv
+
+# Add the following to your ~/.bash_profile
+# We want to load pyenv every time we open a new shell
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+
+# Restart your shell - after updating your ~/.bash_profile
+
+```
+
 
 
 
