@@ -117,7 +117,6 @@ source $HOME/.poetry/env
 ## Before Setup
 ```
 brew install postgresql@9.6
-/Library/PostgreSQL/9.6
 ```
 
 
@@ -140,7 +139,9 @@ export PATH=/usr/local/Cellar/postgresql/9.6.1/bin:$PATH
 xcode-select --install
 env LDFLAGS="-I$(brew --prefix openssl)/include -L$(brew --prefix openssl)/lib" poetry install
 ```
-Source: https://stackoverflow.com/questions/26288042/error-installing-psycopg2-library-not-found-for-lssl/39244687#39244687
+Source: 
+<br/>
+https://stackoverflow.com/questions/26288042/error-installing-psycopg2-library-not-found-for-lssl/39244687#39244687
 
 
 ## Reinstall Python
@@ -165,12 +166,40 @@ set PATH ~/Library/Python/3.9/bin $PATH
 ```
 
 Source:
+<br/>
 https://www.codingforentrepreneurs.com/blog/changing-default-python-3-in-terminal-for-mac-os
+<br/>
 https://flaviocopes.com/python-installation-macos/
+<br/>
 https://levelup.gitconnected.com/a-guide-to-upgrade-your-python-to-3-9-44ccb3eae31a
 
 
 
+## PostgreSQL
+1. 查詢 Port:3000 狀態，若被 postgre 佔用
+```
+sudo lsof -i:3000 
+```
+2. 更改 postgresql.conf 的 port
+```
+sudo -u postgres nano /Library/PostgreSQL/9.6/data/postgresql.conf
+```
+```
+# - Connection Settings - 
+listen_addresses = ‘*’
+port = 5432
+```
+3. restart
+```
+sudo su postgres -c "/Library/PostgreSQL/9.6/bin/pg_ctl restart -D /Library/PostgreSQL/9.6/data"
+```
 
+Source:
+<br/>
+https://www.jamescoyle.net/how-to/3019-how-to-change-the-listening-port-for-postgresql-database
+<br/>
+https://dba.stackexchange.com/questions/220700/how-to-edit-postgresql-conf-with-pgadmin-4
+<br/>
+https://stackoverflow.com/questions/7990539/how-to-restart-postgresql-server-on-macos
 
 
