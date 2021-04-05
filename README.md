@@ -116,7 +116,8 @@ source $HOME/.poetry/env
 
 ## Before Setup
 ```
-brew install postgresql@9.6.1
+brew install postgresql@9.6
+/Library/PostgreSQL/9.6
 ```
 
 
