@@ -151,12 +151,6 @@ PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
 export PATH
 ```
 
-* Setting PATH for default Python
-```
-PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
-export PATH
-```
-
 * Set default python to python3 each time
 ```
 alias python=python3
