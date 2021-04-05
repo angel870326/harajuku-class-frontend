@@ -45,7 +45,11 @@ yarn install
 
 
 ## Developing server
-
+1. change directory to ```harajuku-class```
+```
+cd /Users/angelwang/Desktop/harajuku-class
+```
+2. run
 ```shell
 make
 ```
