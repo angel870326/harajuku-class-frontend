@@ -129,9 +129,12 @@ cd /Users/angelwang/Desktop/harajuku-class/backend
 2. install
 
 ```
-export PATH=/usr/local/Cellar/postgresql/9.6.1/bin:$PATH
+export PATH=/Library/PostgreSQL/9.6/bin:$PATH
 poetry env remove $(poetry env info -p)/bin/python && poetry install
 ```
+export PATH=/usr/local/Cellar/postgresql/9.6.1/bin:$PATH
+
+
 * If not work, run this:
 ```
 xcode-select --install
