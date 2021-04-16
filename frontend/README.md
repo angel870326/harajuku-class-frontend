@@ -67,11 +67,14 @@ cd /Users/angelwang/Desktop/Application
 |**TOP**|關於我們（About us）<br/>課程資訊（Course info）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
 |**講師一覽（teachers）**| 預約講師(make an appointment）<br/>課程一覽 <br/>預約資訊|pages / teachers.tsx <br/>pages / lessons / index.tsx <br/>pages / lessons / [lesson_id].tsx|
 |**課程費用（price）**| |pages / pricing.tsx |
-|**常見問題（question）**| | |
-|**聯絡我們（contact）**| | |
-|**註冊/登入（register/login）**| 忘記密碼（forget password）|pages / login.tsx <br/>pages / register.tsx<br/>pages / forgetPassword.tsx |
-|**My Page**| |pages / account.tsx |
-|**登出**| back to Top | |
+|**常見問題（question）**| | pages / question.tsx |
+|**聯絡我們（contact）**| | pages / contact.tsx |
+|**註冊/登入（register/login）**| 登入 <br/>註冊 <br/>忘記密碼（forget password）|pages / login.tsx <br/>pages / register.tsx<br/>pages / forgetPassword.tsx |
+|**My Page**| 個人資料 <br/>我的最愛 <br/>我的課程 |pages / account.tsx |
+|**登出（logout）**| back to Top | |
+|**服務條款**| | pages / terms.tsx |
+|**隱私權政策**| | pages / privacy.tsx |
+
 
 
 
