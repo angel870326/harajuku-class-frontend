@@ -64,8 +64,8 @@ cd /Users/angelwang/Desktop/Application
 
 |Page|Content|File|
 |---|---|---|
-|**TOP**|關於我們（About us）<br/>課程資訊（Course info）<br/>如何預約課程？（How to make an appointment?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
-|**講師一覽（teachers）**| 預約講師(make an appointment）<br/>課程一覽 <br/>預約資訊|pages / teachers.tsx <br/>pages / lessons / index.tsx <br/>pages / lessons / [lesson_id].tsx|
+|**TOP**|關於我們（About us）<br/>課程資訊（Course info）<br/>如何預約（How to use?）|pages / index.tsx <br/>components/Header <br/>components/NavPills <br/>styles/Header<br/>styles/NavPills|
+|**講師一覽（teachers）**| 預約講師(make an appointment）<br/>課程一覽（特定講師的課程） <br/>預約資訊（已預約付款後才可點閱，包含上課連結）|pages / teachers.tsx <br/>pages / lessons / index.tsx <br/>pages / lessons / [lesson_id].tsx|
 |**課程費用（price）**| |pages / pricing.tsx |
 |**常見問題（question）**| | pages / question.tsx |
 |**聯絡我們（contact）**| | pages / contact.tsx |
