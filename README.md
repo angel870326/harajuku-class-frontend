@@ -63,6 +63,21 @@ STRIPE_API_KEY=sk_test_51IBWjhE4Xd0vI48XHDJBFbw4gYGSyFCG0Qk4g1whQjRDDgqWZRyoU2he
 ```
 
 
+## Frontend Testing
+1. change directory to ```harajuku-class/frontend```
+```
+cd /Users/angelwang/Desktop/harajuku-class/frontend
+```
+2. test all
+```
+yarn test-all
+```
+3. update snapshot
+```
+yarn test -u
+```
+
+
 ## Start a HTTP tunnel forwarding to local port 3000
 
 ```
