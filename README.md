@@ -55,6 +55,13 @@ make
 ```
 
 
+## For Credit Card
+1. create ```backend/.env``` and add this:
+```
+STRIPE_API_KEY=sk_test_51IBWjhE4Xd0vI48XHDJBFbw4gYGSyFCG0Qk4g1whQjRDDgqWZRyoU2he7PVRDXhWL08lgSE2sJ3p3DhNsU3JrqFr003jIPRz43
+```
+
+
 ## Start a HTTP tunnel forwarding to local port 3000
 
 ```
