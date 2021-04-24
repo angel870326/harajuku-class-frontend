@@ -1,6 +1,12 @@
 # Harajuku-class 
 https://harajuku-class.aeroworks.dev/
 
+![Logo_brown](https://user-images.githubusercontent.com/44830635/115964054-1f3fa500-a555-11eb-872e-3ae11b39db6f.png)
+© 2021 Ricecurry, Inc.
+<br/>
+Designed by Angel Wang
+
+
 ## Clone
 ```
 cd /Users/angelwang/Desktop
