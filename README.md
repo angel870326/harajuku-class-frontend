@@ -1,9 +1,8 @@
 # Harajuku-class 
 https://harajuku-class.aeroworks.dev/
 
-<div id="image-container" oncontextmenu="return false;">
-  ![Logo_brown](https://user-images.githubusercontent.com/44830635/115964054-1f3fa500-a555-11eb-872e-3ae11b39db6f.png)
-</div>
+![image](https://user-images.githubusercontent.com/44830635/115964360-b5c09600-a556-11eb-98bd-939a3729c678.png)
+
 © 2021 Ricecurry, Inc.
 <br/>
 Designed by Angel Wang
