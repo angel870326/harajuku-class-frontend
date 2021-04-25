@@ -7,7 +7,9 @@ https://harajuku-class.aeroworks.dev/
 
 © 2021 Ricecurry, Inc.
 <br/>
-Designed by Angel Wang
+Frontend designed by Angel Wang
+<br/>
+Complete codes are private.
 
 
 ## Clone
