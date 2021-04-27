@@ -1,7 +1,7 @@
 # Harajuku-class 
 https://harajuku-class.com/
 <br/>
-https://harajuku-class.aeroworks.dev/
+https://harajuku-class.aeroworks.dev/ (sample)
 
 ![harajuku-class](https://user-images.githubusercontent.com/44830635/115964440-1d76e100-a557-11eb-8a4f-28344b1f471b.png)
 
